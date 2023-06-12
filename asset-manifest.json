@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/deploy/static/css/main.404af78c.css",
+    "main.js": "/deploy/static/js/main.441c8b84.js",
+    "static/css/666.f8449dc3.chunk.css": "/deploy/static/css/666.f8449dc3.chunk.css",
+    "static/js/666.79902c50.chunk.js": "/deploy/static/js/666.79902c50.chunk.js",
+    "static/css/560.29335f8f.chunk.css": "/deploy/static/css/560.29335f8f.chunk.css",
+    "static/js/560.d5a3171b.chunk.js": "/deploy/static/js/560.d5a3171b.chunk.js",
+    "static/js/787.26f70c15.chunk.js": "/deploy/static/js/787.26f70c15.chunk.js",
+    "static/media/back.jpg": "/deploy/static/media/back.16f48a809bd677fd7d9c.jpg",
+    "static/media/QBlack.jpg": "/deploy/static/media/QBlack.65f91a2fbed51ce74b30.jpg",
+    "static/media/kelson_sans_regular_ru-webfont.woff": "/deploy/static/media/kelson_sans_regular_ru-webfont.4095259a013acbf844d3.woff",
+    "static/media/kelson_sans_regular_ru-webfont.woff2": "/deploy/static/media/kelson_sans_regular_ru-webfont.b2d4b7ce8102b7e126b8.woff2",
+    "index.html": "/deploy/index.html",
+    "main.404af78c.css.map": "/deploy/static/css/main.404af78c.css.map",
+    "main.441c8b84.js.map": "/deploy/static/js/main.441c8b84.js.map",
+    "666.f8449dc3.chunk.css.map": "/deploy/static/css/666.f8449dc3.chunk.css.map",
+    "666.79902c50.chunk.js.map": "/deploy/static/js/666.79902c50.chunk.js.map",
+    "560.29335f8f.chunk.css.map": "/deploy/static/css/560.29335f8f.chunk.css.map",
+    "560.d5a3171b.chunk.js.map": "/deploy/static/js/560.d5a3171b.chunk.js.map",
+    "787.26f70c15.chunk.js.map": "/deploy/static/js/787.26f70c15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.404af78c.css",
+    "static/js/main.441c8b84.js"
+  ]
+}
